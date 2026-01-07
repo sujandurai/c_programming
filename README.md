@@ -6,7 +6,7 @@ I am grateful to have learned under the guidance of **Balaji Seshadri sir**, an 
 
  📌 Repository Overview
 
-This repository contains solutions for the **Etalvis C Programming Assessments (1–12)**.
+This repository contains solutions for the **Etalvis C Programming Assessments (1–13)**.
 All programs are implemented in **C language** and focus on fundamental programming concepts taught during the course.
 
  🧠 Concepts & Topics Covered
@@ -63,7 +63,7 @@ gcc sum.c -o sum
 | Field           | Information                               |
 | --------------- | ----------------------------------------- |
 | Course Name     | Etalvis – C Programming                   |
-| Mentor          | Balaji Seshadri sir                       |
+| Mentor          | daneialraj A                              |
 | Assessment Type | Coding / Problem Solving                  |
 | Language Used   | C                                         |
 | Platform        | VS Code                                   |
@@ -83,7 +83,6 @@ gcc sum.c -o sum
 * Logic building and control flow mastery
 * Comfortable with **debugging & real-world coding practices**
 * Clear understanding of **embedded system basics**
-  (Microcontrollers, GPIO, Memory, Communication Interfaces, Hardware Architecture)
 
 🔗 Course Reference
 
